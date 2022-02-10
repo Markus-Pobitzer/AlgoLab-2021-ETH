@@ -1,5 +1,5 @@
 # AlgoLab-2021-ETH
-This are my solution for the AlgoLab course at ETH.
+This are my solutions for the AlgoLab course at ETH.
 
 
 
